@@ -38,7 +38,10 @@ export default function Projects() {
             </li>
 
           </ul>
-
+          <div>
+            <a href="https://jikkkk.vercel.app/" target="_blank" className="text-blue-600 text-xl font-semibold p-4 pt-10">Live App</a>
+            <a href="https://github.com/Alok6371/Grocory-App/tree/main/06_Grocory " target="_blank" className="text-blue-600 text-xl font-semibold p-4 pt-10">Repo Link</a>
+          </div>
         </div>
 
 
@@ -47,30 +50,35 @@ export default function Projects() {
         <div className="bg-purple-50 p-6 rounded-xl shadow hover:shadow-lg transition">
 
           <h3 className="text-2xl font-semibold">
-            Admin Dashboard
+            Dress Store Collection
           </h3>
 
           <p className="text-sm text-gray-500 mt-1">
-            Technologies: React.js, Tailwind CSS, Charts
+            Technologies: React.js, JavaScript, Tailwind CSS
           </p>
 
           <ul className="mt-4 text-gray-700 list-disc list-inside space-y-2">
 
             <li>
-              Developed admin dashboard with sidebar navigation
-              and analytics sections.
+              Built a modern dress store website with product
+              collections and category filtering.
             </li>
 
             <li>
-              Implemented order management and statistics display.
+              Implemented product listing with images,
+              prices, and size options.
             </li>
 
             <li>
-              Created clean and professional UI layout.
+              Designed responsive and attractive user interface
+              for mobile and desktop devices.
             </li>
 
           </ul>
-
+          <div>
+            <a href="https://apna-bazar-two.vercel.app/" target="_blank" className="text-blue-600 text-xl font-semibold p-4 pt-10">Live App</a>
+            <a href="https://github.com/Alok6371/ApnaBazar" target="_blank" className="text-blue-600 text-xl font-semibold p-4 pt-10">Repo Link</a>
+          </div>
         </div>
 
 
@@ -104,6 +112,7 @@ export default function Projects() {
             </li>
 
           </ul>
+          <a href="">Repo Link</a>
 
         </div>
 

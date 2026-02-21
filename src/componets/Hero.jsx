@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { FaGithub, FaLinkedin } from "react-icons/fa"
-import profile from "../assets/profile.png"
+import profile from "../assets/Alokprofile.jpeg"
 import resume from "../assets/Alok_pradhan_React_js_Developer.pdf"
 
 export default function Hero() {
@@ -75,7 +75,7 @@ export default function Hero() {
           <img
             src={profile}
             alt="Alok Pradhan"
-            className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-2xl shadow-2xl border-4 border-white"
+            className="w-64 h-80 md:w-80 md:h-90 object-cover rounded-2xl shadow-2xl border-4 border-white"
           />
         </motion.div>
 
